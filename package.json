@@ -1,0 +1,26 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "a time-honored tradition in computer programming\r I've been trying to learn how to use GitHub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imforest/hello-world.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Blog"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imforest/hello-world/issues"
+  },
+  "homepage": "https://github.com/imforest/hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
